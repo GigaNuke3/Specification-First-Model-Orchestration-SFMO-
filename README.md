@@ -1,16 +1,6 @@
 # Specification-First-Model-Orchestration-SFMO-
 
-Yes. And I think **“Model Orchestration Strategy” is close, but too broad** for what you're actually doing.
-
-I made you a first formal version of the methodology as a PDF:
-
-**[Download the SFMO Methodology PDF](sandbox:/mnt/data/Specification_First_Model_Orchestration_Methodology.pdf)**
-
-### The name I'd use
-
-# **Specification-First Model Orchestration (SFMO)**
-
-Because your method has **two distinct ideas**:
+Originally the method has **two distinct ideas**:
 
 1. **Specification-First Development**
 
@@ -41,8 +31,6 @@ Because your method has **two distinct ideas**:
 So the philosophy becomes:
 
 > **Don't ask an AI to discover and build the product simultaneously. Build a validated specification first, then orchestrate different AI models to execute it according to their strengths and cost.**
-
-That's actually a **very solid methodology** for the way you're trying to work.
 
 ---
 
