@@ -1,16 +1,8 @@
 # Specification-First-Model-Orchestration-SFMO-
 
-<<<<<<< HEAD
 Originally the method has **two distinct ideas**:
-=======
-**[Download the SFMO Methodology PDF](sandbox:/mnt/data/Specification_First_Model_Orchestration_Methodology.pdf)**
-
-### The name I'd use
-
-# **Specification-First Model Orchestration (SFMO)**
 
 Because your method has **two distinct ideas**:
->>>>>>> 2d9d55ee4e9b71fbe4861fffb3f703317431abf4
 
 1. **Specification-First Development**
 
