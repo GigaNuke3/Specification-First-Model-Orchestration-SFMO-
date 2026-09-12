@@ -1,9 +1,5 @@
 # Specification-First-Model-Orchestration-SFMO-
 
-Yes. And I think **“Model Orchestration Strategy” is close, but too broad** for what you're actually doing.
-
-I made you a first formal version of the methodology as a PDF:
-
 **[Download the SFMO Methodology PDF](sandbox:/mnt/data/Specification_First_Model_Orchestration_Methodology.pdf)**
 
 ### The name I'd use
